@@ -1,0 +1,15 @@
+.cus-wrap{ width:100%;float:left; }
+.col-all { width:15%;font-size:12px;float:left; }
+.col-all2 { width:25%;float:left;font-size:12px; }
+.cs{ margin-top:10px !important; }
+#requi2, #sizeinmm2, #vendor2, #vendor, #requi, #sizeinmm, #weight_res { width:100%; }
+
+input[type="text"],input[type="number"],input[type="email"], select{
+	width:100% !important;
+	border:thin solid #CCC;
+	background-color:#EBEBE4;
+	line-height:22px !important;
+	min-height:28px;
+	padding:2px;
+}
+.mg { margin-top:5%; }
